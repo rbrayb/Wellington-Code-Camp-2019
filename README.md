@@ -16,6 +16,6 @@ that many people believe are the first computer programs.
 
 This is their story.
 
-[Slide desk]()
+[Slide deck](https://rbrayb.github.io/Wellington-Code-Camp-2019/Slides/Lovelace-and-Babbage.pptx)
 
 
