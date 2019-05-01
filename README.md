@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Babbage and Lovelace - the dawn of computing
 
-You can use the [editor on GitHub](https://github.com/rbrayb/Wellington-Code-Camp-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Presented to Wellington Code Camp 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Web site](https://www.codecampwellington.nz/)
 
-### Markdown
+Charles Babbage was an English polymath who designed an "Analytical Engine" in the 1840's. He believed that this machine
+could do fully-fledged general purpose computation. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ada Lovelace helped him document the workings but quickly came to realise the implications of this design. She realised 
+that anything that could be represented symbolically; numbers, logic, even music could pass through the machine and create 
+"magic".
 
-```markdown
-Syntax highlighted code block
+The "Analytical Engine" represents the dawn of the computer age. To demonstrate its working, Ada wrote mathematical proofs
+that many people believe are the first computer programs.
 
-# Header 1
-## Header 2
-### Header 3
+This is their story.
 
-- Bulleted
-- List
+[Slide desk]()
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rbrayb/Wellington-Code-Camp-2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
